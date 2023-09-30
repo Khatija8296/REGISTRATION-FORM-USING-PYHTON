@@ -1,3 +1,4 @@
+#correct format with a valid name,valid gmail and a valid password!
 Name: KCDK 
 Email: KMDLK@gmail.com 
 Password: Kiara@2233
